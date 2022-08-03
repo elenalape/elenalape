@@ -5,7 +5,6 @@
 </div>
 
 
-![views](https://komarev.com/ghpvc/?username=elenalape)
 [![twitter](https://img.shields.io/twitter/follow/elena_lape?label=%40elena_lape%20&style=flat&logo=twitter&color=blue)](https://twitter.com/elena_lape)
 [![youtube](https://img.shields.io/youtube/channel/subscribers/UCNpbRAbC-uftpLRtSdKFqFw?label=elenalape&logo=youtube&color=red&style=flat&logoColor=red)](https://youtube.com/c/elena_lape)
 [![linkedin](https://img.shields.io/github/labels/elenalape/elenalape/elenalape?logo=linkedin&color=blue)](https://linkedin.com/in/elenalape)
