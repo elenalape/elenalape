@@ -4,22 +4,18 @@
 </a>
 </div>
 
-<div align="left">
-<a href="https://twitter.com/elena_lape" target="_blank" ref="noopener noreferrer"><img height="25px" src="https://img.shields.io/twitter/follow/elena_lape?label=%40elena_lape%20&style=flat&logo=twitter&color=blue"/></a>
-  <a href="https://youtube.com/c/elena_lape" target="_blank" ref="noopener noreferrer"><img height="25px" src="https://img.shields.io/youtube/channel/subscribers/UCNpbRAbC-uftpLRtSdKFqFw?label=elenalape&logo=youtube&color=red&style=flat&logoColor=red"/></a>
-  <a href="https://linkedin.com/in/elenalape" target="_blank" ref="noopener noreferrer"><img height="25px" src="https://img.shields.io/github/labels/elenalape/elenalape/elenalape?logo=linkedin&color=blue"/></a>
-  <a href="https://dev.to/elenalape" target="_blank" ref="noopener noreferrer"><img height="25px" src="https://img.shields.io/github/labels/elenalape/elenalape/elena_lape?logo=devdotto&color=purple"/></a>
-    <a href="https://github.com/elenalape" target="_blank" ref="noopener noreferrer"><img height="25px" src="https://komarev.com/ghpvc/?username=elenalape"/></a>
-</div>
 
+![views](https://komarev.com/ghpvc/?username=elenalape)
+[![twitter](https://img.shields.io/twitter/follow/elena_lape?label=%40elena_lape%20&style=flat&logo=twitter&color=blue)](https://twitter.com/elena_lape)
+[![youtube](https://img.shields.io/youtube/channel/subscribers/UCNpbRAbC-uftpLRtSdKFqFw?label=elenalape&logo=youtube&color=red&style=flat&logoColor=red)](https://youtube.com/c/elena_lape)
+[![linkedin](https://img.shields.io/github/labels/elenalape/elenalape/elenalape?logo=linkedin&color=blue)](https://linkedin.com/in/elenalape)
+[![devto](https://img.shields.io/github/labels/elenalape/elenalape/elena_lape?logo=devdotto&color=black)](https://dev.to/elenalape)
     
-## Hi! Good to see you here 🦕
+## Hi! Good to see you here.
 
-My name is Elena, I'm a Software Engineer and a DevRel human.
+👩🏼‍💻 I'm Elena, Software Engineer by trade, jack of all trades by passion.
 
-<!-- 
-![](https://komarev.com/ghpvc/?username=elenalape)
-[![](https://img.shields.io/twitter/follow/elena_lape?label=%40elena_lape%20&style=flat&logo=twitter&color=blue)](https://twitter.com/elena_lape)
-[![](https://img.shields.io/youtube/channel/subscribers/UCNpbRAbC-uftpLRtSdKFqFw?label=elenalape&logo=youtube&color=red&style=flat&logoColor=red)](https://youtube.com/c/elena_lape)
-[![](https://img.shields.io/github/labels/elenalape/elenalape/elenalape?logo=linkedin&color=blue)](https://dev.to/elenalape)
-[![](https://img.shields.io/github/labels/elenalape/elenalape/elena_lape?logo=devdotto&color=black)](https://linkedin.com/in/elenalape) -->
+✉️ These days, I mostly write TypeScript, yaml, and GMail.
+
+👀 If you can't reach me on my socials, it's probably because I'm busy building [Holopin](https://holopin.io).
+
