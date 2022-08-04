@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://sticker.page/@elenalape">
-<img src="https://user-images.githubusercontent.com/22844059/182694771-4b8c4fde-c46d-4ef7-92aa-ab3f9f774ac8.png"/>
+<img src="https://user-images.githubusercontent.com/22844059/182970424-b318ae3a-784e-419b-a7c6-95a1296f18a1.png"/>
 </a>
 </div>
 
