@@ -1,8 +1,4 @@
-<div align="center">
-<a href="https://holopin.io/@elena">
-<img src="https://user-images.githubusercontent.com/22844059/182970424-b318ae3a-784e-419b-a7c6-95a1296f18a1.png"/>
-</a>
-</div>
+[![@elena's Holopin board](https://holopin.io/api/user/board?user=elena)](https://holopin.io/@elena)
 
 
 [![twitter](https://img.shields.io/twitter/follow/elena_lape?label=%40elena_lape%20&style=flat&logo=twitter&color=blue)](https://twitter.com/elena_lape)
