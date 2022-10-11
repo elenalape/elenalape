@@ -1,4 +1,4 @@
-[![@elena's Holopin board](https://holopin.io/api/user/board?user=elena)](https://holopin.io/@elena)
+[![@elena's Holopin board](https://holopin.me/elena)](https://holopin.io/@elena)
 
 
 [![twitter](https://img.shields.io/twitter/follow/elena_lape?label=%40elena_lape%20&style=flat&logo=twitter&color=blue)](https://twitter.com/elena_lape)
